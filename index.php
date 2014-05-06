@@ -8,6 +8,9 @@
 		echo'Welcome to Bookmark App ','<b>'.$UserName.'</b>'; 
 		
 	}
+	
 ?>
 
 <?php include("includes/footer.php"); ?>
+
+<h1>Welcome to Bookmark App</h1>
